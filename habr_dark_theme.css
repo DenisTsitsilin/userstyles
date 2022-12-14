@@ -198,7 +198,8 @@ h3{
 .tm-companies-contribution-block__company-name,
 .tm-user-snippet__title,
 .tm-most-reading-block__promo-post,
-.tm-company-snippet__title {
+.tm-company-snippet__title,
+.tm-promo-post-link__link{
     color: #2f93d0 !important;
   }
   /* Links: visited */
@@ -213,7 +214,8 @@ h3{
 .tm-companies-contribution-block__company-name:visited,
 .tm-user-snippet__title:visited,
 .tm-most-reading-block__promo-post:visited,
-.tm-company-snippet__title:visited {
+.tm-company-snippet__title:visited,
+.tm-promo-post-link__link:visited {
     color: #548eaa;
   }
   /* Links: hover */
@@ -228,9 +230,11 @@ h3{
 .tm-companies-contribution-block__company-name:hover,
 .tm-user-snippet__title:hover,
 .tm-most-reading-block__promo-post:hover,
-.tm-company-snippet__title:hover {
+.tm-company-snippet__title:hover,
+.tm-promo-post-link__link:hover {
     color: #548eaa;
   }
+
   /* Style fixes */
   .tm-suggest-button:hover {
     background-color: #7aa600 !important;
