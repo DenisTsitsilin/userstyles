@@ -43,20 +43,26 @@ h3{
   /* Links */
   .tm-company-card__name,
 .tm-news-block__title-link.tm-news-block__title,
-.tm-article-snippet__title-link {
+.tm-article-snippet__title-link,
+.tm-hubs-list__link,
+.article-formatted-body{
     color: #2f93d0 !important;
   }
   /* Links: visited */
   .tm-company-card__name:visited,
 .tm-news-block__title-link.tm-news-block__title:visited,
-.tm-article-snippet__title-link:visited {
-    color: #548eaa !important;
+.tm-article-snippet__title-link:visited,
+.tm-hubs-list__link:visited,
+.article-formatted-body a:visited {
+    color: #229981 !important;
   }
   /* Links: hover */
   .tm-company-card__name:hover,
 .tm-news-block__title-link.tm-news-block__title:hover,
-.tm-article-snippet__title-link:hover {
-    color: #548eaa !important;
+.tm-article-snippet__title-link:hover,
+.tm-hubs-list__link:hover,
+.article-formatted-body a:hover{
+    color: #95B3B3 !important;
   }
   .tm-article-comments__article-snippet,
 .tm-comment__body-content code,
@@ -327,10 +333,6 @@ h3{
 
 .tm-article-snippet__title-link:visited {
     color: #229981 !important;
-}
-
-.article-formatted-body a:visited {
-    color:  #229981;
 }
 
 .article-formatted-body a {
