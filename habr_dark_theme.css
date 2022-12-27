@@ -17,7 +17,9 @@
 .tm-placeholder-promo,
 .tm-placeholder-inset,
 .tm-sandbox-articles-list__item,
-.tm-sandbox-article__body {
+.tm-sandbox-article__body,
+.tm-positioned-window__content,
+.tm-positioned-window__close {
     background-color: #2e3436 !important;
   }
   /* Text */
@@ -30,7 +32,8 @@
 .tm-separated-list__title {
     color: #b3b3b3 !important;
   }
-.tm-article-snippet__title.tm-article-snippet__title_h1{
+.tm-article-snippet__title.tm-article-snippet__title_h1,
+.abbreviation-presenter__abbr {
   color: #548E9F  !important;
 }
 .article-formatted-body h2,
