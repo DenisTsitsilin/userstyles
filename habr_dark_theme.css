@@ -15,7 +15,8 @@
 .tm-article-sticky-panel,
 .tm-article-sticky-panel__icons,
 .tm-placeholder-promo,
-.tm-placeholder-inset {
+.tm-placeholder-inset,
+.tm-sandbox-articles-list__item {
     background-color: #2e3436 !important;
   }
   /* Text */
