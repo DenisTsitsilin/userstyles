@@ -16,7 +16,8 @@
 .tm-article-sticky-panel__icons,
 .tm-placeholder-promo,
 .tm-placeholder-inset,
-.tm-sandbox-articles-list__item {
+.tm-sandbox-articles-list__item,
+.tm-sandbox-article__body {
     background-color: #2e3436 !important;
   }
   /* Text */
