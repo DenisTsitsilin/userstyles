@@ -58,7 +58,8 @@ h3{
 .tm-news-block__title-link.tm-news-block__title:visited,
 .tm-article-snippet__title-link:visited,
 .tm-hubs-list__link:visited,
-.article-formatted-body a:visited {
+.article-formatted-body a:visited,
+.tm-comment__body-content a:visited{
     color: #229981 !important;
   }
   /* Links: hover */
