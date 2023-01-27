@@ -50,7 +50,8 @@ h3{
 .tm-news-block__title-link.tm-news-block__title,
 .tm-article-snippet__title-link,
 .tm-hubs-list__link,
-.article-formatted-body{
+.article-formatted-body,
+a {
     color: #2f93d0 !important;
   }
   /* Links: visited */
@@ -59,7 +60,8 @@ h3{
 .tm-article-snippet__title-link:visited,
 .tm-hubs-list__link:visited,
 .article-formatted-body a:visited,
-.tm-comment__body-content a:visited{
+.tm-comment__body-content a:visited,
+a :visited {
     color: #229981 !important;
   }
   /* Links: hover */
@@ -67,7 +69,8 @@ h3{
 .tm-news-block__title-link.tm-news-block__title:hover,
 .tm-article-snippet__title-link:hover,
 .tm-hubs-list__link:hover,
-.article-formatted-body a:hover{
+.article-formatted-body a:hover,
+a :hover {
     color: #95B3B3 !important;
   }
   .tm-article-comments__article-snippet,
