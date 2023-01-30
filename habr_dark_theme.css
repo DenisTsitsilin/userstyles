@@ -29,7 +29,9 @@
 .tm-comment-form__editor,
 .tm-article-poll__header,
 .tm-article-poll__answer-label,
-.tm-separated-list__title {
+.tm-separated-list__title,
+.tm-error-message__title,
+.tm-error-message__body {
     color: #b3b3b3 !important;
   }
 .tm-article-snippet__title.tm-article-snippet__title_h1,
