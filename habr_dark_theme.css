@@ -361,3 +361,8 @@ a :hover {
     background-color: #ffffff00;
     color: #6F7577; 
 }
+
+.tm-user-hubs__hub {
+  background-color: #9e4502;
+  color: #b3b3b3 !important;
+}
