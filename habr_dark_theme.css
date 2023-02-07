@@ -19,7 +19,8 @@
 .tm-sandbox-articles-list__item,
 .tm-sandbox-article__body,
 .tm-positioned-window__content,
-.tm-positioned-window__close {
+.tm-positioned-window__close,
+.tm-user-comment-card {
     background-color: #2e3436 !important;
   }
   /* Text */
