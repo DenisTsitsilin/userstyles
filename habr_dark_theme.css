@@ -2,7 +2,6 @@
   .tm-block,
 .tm-company-card,
 .tm-company-profile-card,
-.tm-button-follow__button,
 .tm-page-article__body,
 .tm-articles-list__item,
 .tm-article-presenter__origin,
@@ -365,4 +364,26 @@ a :hover {
 .tm-user-hubs__hub {
   background-color: #9e4502;
   color: #b3b3b3 !important;
+}
+
+.tm-button-follow__unfollow {
+  color: black;
+  background-color: #b3b3b3;
+  border: none;
+}
+
+.tm-button-follow__button {
+  background-color: #3b5729;
+  color: #b3b3b3;
+  border: none;
+}
+
+.tm-button-follow__button:hover {
+  background-color: #455c36;
+  color: #b3b3b3;
+  border: none;
+}
+
+.tm-article-snippet__hubs-container:after {
+  background: none;
 }
