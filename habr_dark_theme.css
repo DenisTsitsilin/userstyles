@@ -387,3 +387,7 @@ a :hover {
 .tm-article-snippet__hubs-container:after {
   background: none;
 }
+
+.tm-description-list__body_variant-base {
+  color: #b3b3b3;
+}
