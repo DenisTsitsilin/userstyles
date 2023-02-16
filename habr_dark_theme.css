@@ -62,6 +62,11 @@ h3{
     border-radius: 5px;
   }
 
+.base-checkbox__label,
+.base-radio__label span{
+  color: #b3b3b3  !important;
+}
+
 .base-select__field {
   background-color:transparent;
 }
