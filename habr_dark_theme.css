@@ -20,7 +20,8 @@
 .tm-positioned-window__content,
 .tm-positioned-window__close,
 .tm-user-comment-card,
-.user-settings__form {
+.user-settings__form,
+.tm-page-settings-form{
     background-color: #2e3436 !important;
   }
   /* Text */
