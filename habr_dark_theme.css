@@ -55,12 +55,29 @@ h3{
 	.base-select__select,
 	.base-textarea__textarea,
 	.base-button,
-	.base-file__label {
+	.base-file__label,
+.base-chips__field,
+.base-chips__input{
     background-color: #585858 !important;
   	border: none;
     color: #b3b3b3  !important;
     border-radius: 5px;
   }
+
+.tm-specs__cat-wrapper,
+.tm-specs__cat-title,
+.tm-specs__subcategories_wrapper{
+  color: #b3b3b3;
+  background-color: #585858 !important;
+}
+
+.tm-specs__cat-wrapper:hover  .tm-specs__cat-title, 
+.tm-specs__cat-wrapper:hover,
+.tm-specs__cat-wrapper_active  .tm-specs__cat-title,
+.tm-specs__cat-wrapper_active{
+	background-color:  #b3b3b3  !important;
+  color: #585858;
+}
 
 .base-checkbox__label,
 .base-radio__label span{
@@ -227,7 +244,8 @@ a :hover {
 .ProseMirror > h1,
 .ProseMirror .node__inner p,
 .tm-block__body,
-.tm-publication__bottom-time {
+.tm-publication__bottom-time,
+.base-chips__added{
     color: #b3b3b3 !important;
   }
   /* Links */
@@ -389,7 +407,8 @@ a :hover {
     color: #6F7577; 
 }
 
-.tm-user-hubs__hub {
+.tm-user-hubs__hub,
+.base-chips__added{
   background-color: #9e4502;
   color: #b3b3b3 !important;
 }
