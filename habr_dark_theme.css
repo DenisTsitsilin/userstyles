@@ -37,7 +37,8 @@
 .article-formatted-body,
 .base-select__container,
 .base-textarea__container,
-.base-section__title {
+.base-section__title,
+.beta-header__title{
     color: #b3b3b3 !important;
   }
 .tm-article-snippet__title.tm-article-snippet__title_h1,
@@ -56,13 +57,21 @@ h3{
 	.base-textarea__textarea,
 	.base-button,
 	.base-file__label,
-.base-chips__field,
-.base-chips__input{
+.base-chips__input,
+.tm-editor__bottom-inner button{
     background-color: #585858 !important;
   	border: none;
     color: #b3b3b3  !important;
     border-radius: 5px;
   }
+
+.base-chips__input {
+  margin-left: 5px;
+}
+
+.base-chips__field {
+  border: none;
+}
 
 .tm-specs__cat-wrapper,
 .tm-specs__cat-title,
