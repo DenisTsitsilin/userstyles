@@ -448,3 +448,10 @@ a :hover {
 .tm-description-list__body_variant-base {
   color: #b3b3b3;
 }
+
+.tm-search__input .tm-input-text-decorated__input,
+.tm-search__icon{
+  background-color: #929ca5;
+  border: none;
+  color: #2e3436 !important;
+}
