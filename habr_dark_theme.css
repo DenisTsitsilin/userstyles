@@ -39,7 +39,8 @@
 .base-select__container,
 .base-textarea__container,
 .base-section__title,
-.beta-header__title{
+.beta-header__title,
+.tm-navigation-filters-spoiler__button{
     color: #b3b3b3 !important;
   }
 .tm-article-snippet__title.tm-article-snippet__title_h1,
