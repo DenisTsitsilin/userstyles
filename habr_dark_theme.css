@@ -21,7 +21,9 @@
 .tm-positioned-window__close,
 .tm-user-comment-card,
 .user-settings__form,
-.tm-page-settings-form{
+.tm-page-settings-form,
+.tm-user-apps__list,
+ .tm-empty-placeholder_variant-default{
     background-color: #2e3436 !important;
   }
   /* Text */
