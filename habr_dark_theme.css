@@ -355,7 +355,8 @@ a :hover {
 .tm-widget-twitter__name:hover {
     color: #548eaa !important;
   }
-  .tm-description-list__body_variant-columns,
+.tm-description-list__body,
+.tm-description-list__body_variant-columns,
 .tm-description-list__body_variant-columns-nowrap,
 .tm-description-list__body_variant-columns-numbers,
 .tm-description-list__title_variant-columns,
