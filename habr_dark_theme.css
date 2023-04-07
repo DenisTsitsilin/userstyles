@@ -121,7 +121,8 @@ a {
 .tm-hubs-list__link:visited,
 .article-formatted-body a:visited,
 .tm-comment__body-content a:visited,
-a :visited {
+a :visited,
+.tm-title_h1{
     color: #229981 !important;
   }
   /* Links: hover */
