@@ -23,7 +23,9 @@
 .user-settings__form,
 .tm-page-settings-form,
 .tm-user-apps__list,
- .tm-empty-placeholder_variant-default{
+ .tm-empty-placeholder_variant-default,
+.user-info-popup__wrapper,
+.user-info-popup__footer{
     background-color: #2e3436 !important;
   }
   /* Text */
