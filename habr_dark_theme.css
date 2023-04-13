@@ -25,7 +25,9 @@
 .tm-user-apps__list,
  .tm-empty-placeholder_variant-default,
 .user-info-popup__wrapper,
-.user-info-popup__footer{
+.user-info-popup__footer,
+.tm-feed-settings-block__title,
+.tm-feed-settings-block__wrapper{
     background-color: #2e3436 !important;
   }
   /* Text */
@@ -44,7 +46,8 @@
 .base-textarea__container,
 .base-section__title,
 .beta-header__title,
-.tm-navigation-filters-spoiler__button{
+.tm-navigation-filters-spoiler__button,
+.tm-feed-settings-block__title{
     color: #b3b3b3 !important;
   }
 .tm-article-snippet__title.tm-article-snippet__title_h1,
