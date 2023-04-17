@@ -466,3 +466,14 @@ a :hover {
   border: none;
   color: #2e3436 !important;
 }
+
+.tm-user-menu__auth-button_primary,
+.tm-user-menu__auth-button{
+  background-color: initial;
+}
+
+.tm-user-menu__auth-button_primary:hover,
+.tm-user-menu__auth-button:hover{
+  background-color: #2f93d0 !important;
+  color: #2e3436 !important;
+}
