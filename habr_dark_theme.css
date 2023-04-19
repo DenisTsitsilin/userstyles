@@ -27,7 +27,10 @@
 .user-info-popup__wrapper,
 .user-info-popup__footer,
 .tm-feed-settings-block__title,
-.tm-feed-settings-block__wrapper{
+.tm-feed-settings-block__wrapper,
+.tm-md-editor,
+.tm-md-editor textarea
+{
     background-color: #2e3436 !important;
   }
   /* Text */
