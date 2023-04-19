@@ -31,7 +31,8 @@
 .tm-md-editor,
 .tm-md-editor textarea,
 .tm-modal-window__header,
-.tm-markdown-switcher-popup
+.tm-markdown-switcher-popup,
+.tm-post-snippet
 {
     background-color: #2e3436 !important;
   }
