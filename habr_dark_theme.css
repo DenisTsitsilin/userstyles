@@ -29,7 +29,9 @@
 .tm-feed-settings-block__title,
 .tm-feed-settings-block__wrapper,
 .tm-md-editor,
-.tm-md-editor textarea
+.tm-md-editor textarea,
+.tm-modal-window__header,
+.tm-markdown-switcher-popup
 {
     background-color: #2e3436 !important;
   }
@@ -50,7 +52,9 @@
 .base-section__title,
 .beta-header__title,
 .tm-navigation-filters-spoiler__button,
-.tm-feed-settings-block__title{
+.tm-feed-settings-block__title,
+.tm-modal-window__title,
+.tm-markdown-switcher-popup__info{
     color: #b3b3b3 !important;
   }
 .tm-article-snippet__title.tm-article-snippet__title_h1,
