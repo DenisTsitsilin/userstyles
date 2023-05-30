@@ -436,6 +436,7 @@ a :hover {
 }
 
 .tm-user-hubs__hub,
+.tm-user-hubs__item,
 .base-chips__added{
   background-color: #9e4502;
   color: #b3b3b3 !important;
@@ -478,6 +479,7 @@ a :hover {
 .tm-user-menu__auth-button_primary,
 .tm-user-menu__auth-button{
   background-color: initial;
+  color: #fff !important;
 }
 
 .tm-user-menu__auth-button_primary:hover,
