@@ -440,8 +440,9 @@ a :hover {
 .tm-user-hubs__hub,
 .tm-user-hubs__item,
 .base-chips__added{
-  background-color: #9e4502;
+  background-color: #9e4502 !important;
   color: #b3b3b3 !important;
+  border-radius: 7px !important;
 }
 
 .tm-button-follow__unfollow {
@@ -493,4 +494,11 @@ a :hover {
 .tm-header-user-menu__notifications-count {
 	background: #229981;
 	border-color: #b3b3b3 !important;
+}
+
+.tm-user-menu__menu_top a:hover,
+.tm-user-menu__menu_bottom a:hover,
+.tm-user-menu__menu_bottom button:hover{
+	background: #272d3194;
+	color: #95B3B3 !important;
 }
